@@ -61,7 +61,7 @@ An AI-powered smart city assistant designed to promote sustainability, streamlin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Madhuharshitha5/SustainableSmartCity.git
+git clone https://github.com/Shirisha-Kuruva/SustainableSmartCity.git
 cd SustainableSmartCity
 ```
 
@@ -87,10 +87,10 @@ streamlit run smart_dashboard.py
 
 ## 👩‍💻 Author
 
-This project was built by **Aluvala Madhu Harshitha**  
-📧 Email: madhuharshitha5@gmail.com  
-🔗 GitHub: [Madhuharshitha5](https://github.com/Madhuharshitha5)  
-🔗 LinkedIn: [Aluvala Madhu Harshitha](https://www.linkedin.com/in/aluvala-madhu-harshitha-6b0a42344)
+This project was built by **Shirisha Kuruva**  
+📧 Email: kuruvashireesha99@gmail.com  
+🔗 GitHub: [Shirisha-Kuruva](https://github.com/Shirisha-Kuruva)  
+🔗 LinkedIn: [Shirisha Kuruva](https://www.linkedin.com/in/shirishakuruva)
 
 ---
 
